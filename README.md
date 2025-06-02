@@ -1,9 +1,9 @@
 # Hello World, I'm Lucas, a Brazilian Software Developer 👋
 
-📚 - Computer Science at PUCRS<br>⚙️ - Intern at MGS
+📚 - Computer Science at PUCRS;<br>⚙️ - Intern at MGS; <br>🧠 - Learning new languages ​​and technologies, feel free to contact me via linkedin or academic email attached below;
 
 
-## 🌐 Socials:
+#### 🌎 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/lucas-volkweis) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:lucas.volkweis@edu.pucrs.br) 
 
 # 💻 Tech Stack:
